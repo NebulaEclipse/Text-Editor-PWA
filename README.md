@@ -19,3 +19,6 @@ If you prefer to deploy this app locally you'll need to do the following:
 - Navigate to http://localhost:3000 in your browser to view the app
 
 ![J.A.T.E. Running](./image/image.png)
+
+## Deployed Link
+https://lit-sierra-49508-82351cb9b240.herokuapp.com/
